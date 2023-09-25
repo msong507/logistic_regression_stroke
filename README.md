@@ -1,4 +1,4 @@
-# stroke_prediction
+# Stroke Prediction
 A predictive model for stroke diagnosis using logistic regression and upsampling(SMOTE)
 
 ### Data
